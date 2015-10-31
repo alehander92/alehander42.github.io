@@ -1,0 +1,11 @@
+name: "sashe"
+markdown: redcarpet
+highlighter: pygments
+permalink: :title
+exclude: [README.md, LICENSE, Makefile]
+baseurl: ''
+
+# Information for the Atom feed
+gereksiz:
+   author: "Alexander Ivanov"
+   email: "alehander42@gmail.com"
