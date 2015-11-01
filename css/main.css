@@ -95,7 +95,7 @@ pre {
 }
 code {
    padding: .25em .5em;
-   font-size: 75%;
+   font-size: 105%;
    color: #bf616a;
    background-color: transparent;
    border-radius: 3px;
@@ -104,7 +104,7 @@ pre {
    display: block;
    margin: 0 0 14px;
    padding: 10px 20px;
-   font-size: 15px;
+   font-size: 22px;
    line-height: 1.4;
    white-space: pre;
    white-space: pre-wrap;
