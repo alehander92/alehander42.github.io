@@ -129,3 +129,4 @@ However now I can imagine a statically typed program like 2 parallel programs:
 
 Is that close to truth? Is there a deeper link between logical programming and type theory? Any experiments like this? I'd love to hear more about this kind of stuff
 
+In the end I enjoyed that, Prolog is actually pretty ok even for writing "normal" code and this very high level type of rules are way better experience than e.g. implementing type inference for [Pseudo-Python](https://github.com/alehander/pseudo-python) in Python(for prototyping)
