@@ -8,7 +8,7 @@ categories: python
 
 ## tl;dr
 
-I play with Prolog, I find out I can easily model a simple type system in it and after that I create [hatlog](https://github.com/alehander42/hatlog) to feed it with some Python. In the end I find out my programs ~= 2 parallel programs: type inference / compile-time prolog and the normal program.
+I play with Prolog, I find out I can infer custom type systems in under 50 lines of it and after that I create [hatlog](https://github.com/alehander42/hatlog) to feed it with some Python. In the end I find out my programs ~= 2 parallel programs: type inference / compile-time prolog and the normal program.
 
 ## prologue (heh)
 
