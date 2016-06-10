@@ -61,7 +61,7 @@ code .si { color: #AA0000 } /* Literal.String.Interpol */
 code .sx { color: #CC3300 } /* Literal.String.Other */
 code .sr { color: #33AAAA } /* Literal.String.Regex */
 code .s1 { color: #CC3300 } /* Literal.String.Single */
-code .ss { color: #FFCC33 } /* Literal.String.Symbol */
+code .ss { color: #2323ff } /* Literal.String.Symbol */
 code .bp { color: #336666 } /* Name.Builtin.Pseudo */
 code .vc { color: #003333 } /* Name.Variable.Class */
 code .vg { color: #003333 } /* Name.Variable.Global */
