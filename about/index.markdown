@@ -3,11 +3,17 @@ layout: page
 title: about
 ---
 
+мисли за хора
+
+идеи и
+
 thoughts on programming
 
 I am interested in language development, everything related to language/editor/ide/ast-based tools, web development and machine learning
 
-![a photo of sashe](http://blog-alehander42.rhcloud.com/wp-content/uploads/2014/12/mdewsEg-300x256.jpg)
+![a photo of sashe](https://i.imgur.com/9A6Mt1t.jpg)
+
+I am also interested in very confusing ui for blogs
 
 I've worked on
 
@@ -15,7 +21,7 @@ I've worked on
 
 	  A framework for automated code translation, supporting Python, Ruby, Go, JavaScript and C#
 
-* [Hermetic](https://github.com/alehander42/hermetic)
+* [Airtight](https://github.com/alehander42/airtight)
 
 	A python-like language with hindley-milner-like type system, which is compiled to C
 
@@ -31,7 +37,7 @@ I've worked on
 and many others: 
 [github](https://github.com/alehander42)
 
-I also love creative writing, [that's a blog with some of my short stories in bulgarian](http://alehander42.me)
+I work at metacraft-labs on developer tools using [Nim](https://nim-lang.org/)
 
 You can contact me at alehander42 at gmail
 
