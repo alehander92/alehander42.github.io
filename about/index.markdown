@@ -3,11 +3,11 @@ layout: page
 title: about
 ---
 
-мисли за хора
-
-идеи и
+блог, съдържащ поезия и проза и подобни комбинации на думи, идеи и събития
 
 thoughts on programming
+
+сиамски близнак на два езика и две теми
 
 I am interested in language development, everything related to language/editor/ide/ast-based tools, web development and machine learning
 
