@@ -54,14 +54,17 @@ X = [list, z].
 false.
 ```
 
-## my prolog milk brings all the pythons to the backyard
+## explanation
 
 I had a very simple type inference engine but it worked only on some imaginary 
 facts. Those facts did look suspiciously similar to real programs though. Actually if you just write a simple fibonacci in Python, you can easily map it to rules like these: `if` is `if(Test, IfBlock, ElseBlock, IfType)`, `==` is `eq(Left, Right, EqType)` and `+` is `bin_op(Left, Right, BiType)`. I mapped several simple functions to prolog rules like that and I realized the type inference was working ok for that too. 
 
 So then `hatlog` was born. 
 
-`hatlog` takes a one-function python program:
+`hatlog` takes a one-function 
+
+
+program:
     
   * visits and flattens the ast in DFS order
   * annotates each node with its type: an atom(e.g. `str`) for literals and a free variable(e.g. `Z0`) for the other unknown types.
